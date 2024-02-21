@@ -4,7 +4,7 @@
 I am a Backend Software Engineer with experience in crafting software solution for various purposes. I Specialise in JavaScript, Node.js, Expresss.js and Go Lang among other tools and frameworks. I am passionate about problem-solving and delivering scalable solutions. I am eager to expand my skills and make valuable contributions to cutting-edge projects in a dynamic setting and committed to continuous learning and collaboration.
 
 
-## 🌐 Let's connect on socials media:
+## 🌐 Let's connect on social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephenoyeyemi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stevesdiary_) 
 
 # 💻 Tech Stack/Tools:
