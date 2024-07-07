@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Steve
 
 # 💫 About Me:
-I am a Backend Software Engineer with experience in crafting software solution for various purposes. I specialise in JavaScript, Node.js, Expresss.js and Go Lang among other tools and frameworks. I am passionate about problem-solving and delivering scalable solutions. I am eager to expand my skills to make valuable contributions to cutting-edge projects in a dynamic setting and I am committed to continuous learning and collaboration.
+I am a Backend Software Engineer with experience JavaScript, Node.js, Typescript and NestJs. I am passionate about problem-solving and delivering scalable solutions. I am eager to expand my skills by continuous learning and open to collaboration.
 
 
 ## 🌐 Let's connect on social media:
