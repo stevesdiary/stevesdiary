@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Steve
 
 # 💫 About Me:
-I am a Backend Software Engineer with experience JavaScript, Node.js, Typescript and currently learning NestJs and React.js. I am passionate about problem-solving and delivering scalable solutions. I am open to collaboration and eager to expand my skills by continuous learning.
+🚀 **Backend Wizard | Problem Solver** 🛠️
+Transforming complex challenges into seamless solutions. I craft robust backend architectures that drive business growth and efficiency. Your go-to for scalable, secure, and efficient tech solutions. Ready to innovate, optimize, and elevate your business. 💡I am passionate about problem-solving and delivering scalable solutions. I am open to collaboration and I constantly expand my skills by continuous learning.
 
 
 ## 🌐 Let's connect on social media:
