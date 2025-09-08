@@ -21,6 +21,10 @@ Transforming complex challenges into seamless solutions. I craft robust backend 
 ![](https://github-contributor-stats.vercel.app/api?username=stevesdiary&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+
+[![wakatime](https://wakatime.com/badge/user/e0fcde8f-82b7-4ea1-a1ec-eefa3636b789.svg)](https://wakatime.com/@e0fcde8f-82b7-4ea1-a1ec-eefa3636b789)
+
+---
 [![](https://visitcount.itsvg.in/api?id=stevesdiary&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ### ✍️ Random Dev Quote
