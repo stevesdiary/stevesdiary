@@ -1,10 +1,7 @@
 ### Hi there 👋 I'm Steve
 
 # 💫 About Me:
-🚀 **Backend Wizard | Problem Solver** 🛠️
-
-Transforming challenges into seamless solutions. I craft and build robust backend architectures that drive business growth and efficiency. Your go-to for scalable, secure, and efficient tech solutions. Ready to innovate, optimize, and elevate your business. 💡 I am open to collaboration and I constantly expand my skills by continuous learning.
-
+Backend engineer building APIs and distributed systems with Node.js, TypeScript, and PostgreSQL. Fintech background (Aella, ProvidusBank). Currently building SaaS products at CSG Limited. Into system design, clean architecture, and things that do not fall over at scale.
 
 ## 🌐 Let's connect on social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephenoyeyemi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stevesdiary_) 
