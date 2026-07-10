@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Steve
 
 # 💫 About Me:
-Backend engineer building APIs and distributed systems with Node.js, TypeScript, and PostgreSQL. Fintech background (Aella, ProvidusBank). Into system design, clean architecture, and things that do not fall over at scale.
+Backend engineer building APIs and distributed systems with Node.js, TypeScript, and PostgreSQL. Fintech background (Aella MFB, ProvidusUnity Bank). Into system design, clean architecture, and things that do not fall over at scale.
 
 ## 🌐 Let's connect on social media:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/stephenoyeyemi) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/stevesdiary_) 
